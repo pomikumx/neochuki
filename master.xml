@@ -2,7 +2,7 @@
  
  
 <item>
-<title>[COLOR orange][B]*   ======= Peliculas Varias =======   *[/B][/COLOR]</title>
+<title>[COLOR orange][B]*    Peliculas Varias    *[/B][/COLOR]</title>
 <link>ignorame</link>
 <externallink>http://www.mediafire.com/file/e1u5b5e2pwiw8ci/lista_pel.xml</externallink>
 <thumbnail>https://image.freepik.com/vector-gratis/cine-y-palomitas-de-maiz_23-2147502780.jpg</thumbnail>
@@ -10,10 +10,17 @@
 </item>
  
 <item>
-<title>[COLOR orange][B]*   ===== Peliculas Infantiles  ======   *[/B][/COLOR]</title>
+<title>[COLOR orange][B]*    Peliculas Infantiles     *[/B][/COLOR]</title>
 <link>ignorame</link>
 <externallink>http://www.mediafire.com/file/5whj3z2bfxp5zee/listainfa.xml</externallink>
 <thumbnail>http://2.bp.blogspot.com/_4hYvoiBS2tI/TPEoQ9tDAJI/AAAAAAAAAFs/hLNzzVRxjcc/s1600/Disney_Character_Collage_by_ToonGenius.jpg</thumbnail>
 <fanart></fanart>
 </item>
  
+<item>
+<title>[COLOR orange][B]*    Magic English Disney     *[/B][/COLOR]</title>
+<link>ignorame</link>
+<externallink>http://www.mediafire.com/file/ydi8awv7qny8un7/mag.xml</externallink>
+<thumbnail>https://http2.mlstatic.com/el-mundo-de-ingles-magic-english-ambas-de-disney-en-digital-D_NQ_NP_907421-MLV20787400436_062016-O.jpg</thumbnail>
+<fanart></fanart>
+</item>
